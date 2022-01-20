@@ -387,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: rgb(254 201 106);
+  color: rgb(249 96 4);
   margin-bottom: 50px;
   font-size: 24px;
 }
@@ -851,6 +851,7 @@ section {
 .services .icon-box h4 a {
   color: #37517e;
   transition: ease-in-out 0.3s;
+  font-size: 18px;
 }
 
 .services .icon-box p {
